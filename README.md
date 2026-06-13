@@ -21,8 +21,8 @@ sannihitha = {
     "location"   : "Karimnagar, Telangana 🇮🇳",
     "education"  : "B.Tech CSE — 2025 Graduate",
     "stack"      : ["Python", "Django", "React.js", "MySQL", "REST APIs"],
-    "interests"  : ["Full-Stack Development", "Machine Learning", "System Design"],
-    "currently"  : "Building TasteHaven 🍔 & sharpening DSA",
+    "interests"  : ["Full-Stack Development", "Artificial Intelligence", "Machine Learning", "System Design"],
+    "currently"  : "Building TasteHaven 🍔, exploring AI & sharpening DSA",
     "contact"    : "sannihithag1@gmail.com"
 }
 ```
@@ -32,7 +32,17 @@ sannihitha = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,mysql,js,html,css,git,github,linux,java,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,mysql,js,html,css,git,github,windows,java,vscode&perline=6" />
+</p>
+
+**🤖 AI / ML Interests**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF4D00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-9333EA?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-0EA5E9?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentiment%20Analysis-10B981?style=flat-square"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ---
@@ -71,12 +81,13 @@ sannihitha = {
       <a href="https://github.com/Sannihitha-gk"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Stress Detector — NLP & ML</h3>
-      <p>Sentiment analysis classifier detecting stress indicators from social media posts using Java & MySQL.</p>
+      <h3>🧠 Stress Detection — College Project</h3>
+      <p>Academic project: sentiment analysis classifier detecting stress indicators from social network interactions using Java & MySQL.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/NLP-Sentiment%20Analysis-9333EA?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Academic-Project-6B7280?style=flat-square"/>
       </p>
       <ul>
         <li>Classifies stress from unstructured social data</li>
