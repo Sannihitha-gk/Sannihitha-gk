@@ -55,7 +55,7 @@ sannihitha = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍔 BiteRush — Food Delivery App</h3>
+      <h3>🍔 TasteHaven — Food Delivery App</h3>
       <p>Full-stack food ordering platform with real-time order management, authentication, and a dark glassmorphism UI.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
