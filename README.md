@@ -42,7 +42,6 @@ sannihitha = {
   <img src="https://img.shields.io/badge/NLP-9333EA?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Generative%20AI-0EA5E9?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sentiment%20Analysis-10B981?style=flat-square"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ---
