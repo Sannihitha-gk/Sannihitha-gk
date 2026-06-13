@@ -137,10 +137,10 @@ sannihitha = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Activity
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Sannihitha-gk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sannihitha-gk&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
