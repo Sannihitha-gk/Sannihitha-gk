@@ -1,4 +1,14 @@
-## Hi there 👋
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D00&height=200&section=header&text=Hi,%20I'm%20Sannihitha!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Open%20to%20Work&descAlignY=55&descSize=18" />
+</p>
+<!-- PROFILE BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sannihitha-gk&style=flat-square&color=F97316&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Sannihitha-gk?style=flat-square&color=3B82F6&label=Followers" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-2025%20Graduate-blueviolet?style=flat-square" />
+</p>
 
 <!--
 **Sannihitha-gk/Sannihitha-gk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
